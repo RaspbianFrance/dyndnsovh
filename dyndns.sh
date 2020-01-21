@@ -1,9 +1,9 @@
 #!/bin/sh
 
 #Define your OVH DynHost ID & password and the domain name for which you wish to update DynHost
-DYNHOST_ID='{DYNHOST_ID}'
-DYNHOST_PASSWORD='{DYNHOST_PASSWORD}'
-DOMAIN_NAME='{DOMAIN_NAME}'
+DYNHOST_ID=''
+DYNHOST_PASSWORD=''
+DOMAIN_NAME=''
 
 
 
